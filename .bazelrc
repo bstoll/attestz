@@ -1,2 +1,2 @@
-common --android_sdk_repository=false
-common --android_ndk_repository=false
+common --incompatible_disable_native_repo_rules
+
